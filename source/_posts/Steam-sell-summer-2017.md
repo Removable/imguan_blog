@@ -1,11 +1,11 @@
 ---
 title: 【转】2017 Steam夏季促销推荐！
-date: 2017-06-23 09:46:44
+date: 2017-06-22 09:46:44
 tags:
     - Steam
 ---
 
-![辣鸡平台.gif](/images/2017/06/Steam-sell-summer-2017/Steam-sell-summer-2017_01.gif)
+![辣鸡平台.gif](https://i.v2ex.co/cHqS4Ukj.gif)
 
 > 本文转载自[奶牛关](https://cowlevel.net/question/1902797/answer/2162818)，著作权归作者所有。商业转载请联系作者获得授权，非商业转载务必附上原作者名称，注明来自「奶牛关」并给出原文链接。不得以任何形式演绎或修改。
 
