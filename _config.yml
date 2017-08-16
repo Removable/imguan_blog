@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: 一个博客
+subtitle: 零件的个人博客
+description: Record useful and interesting articles
+author: 可更换零部件
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://blog.imguan.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
