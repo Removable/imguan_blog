@@ -75,3 +75,7 @@ RewriteRule $ / [R=204]
 #### 大功告成
 
 那么现在只需要将Android的检测地址改为你自己的域名 + /generate_204即可~
+
+
+
+> 本文为原创博文，转载请注明原文链接 https://blog.imguan.com/2017/09/04/Android-captive-portal/
